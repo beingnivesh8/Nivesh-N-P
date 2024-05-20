@@ -1,4 +1,4 @@
-# Nivesh-N-P
+# Nivesh N P
 
 # The hierarchy levels ⤵️
 
@@ -12,6 +12,9 @@ Having lots of interest in DataScience and Learning it...
 You can reach me through: sakthinivesh99@gmail.com
 
 # My Recent Projects:
-* https://github.com/beingnivesh8/1project
-* https://github.com/beingnivesh8/2project
+* YOUTUBE DATE HARVESTING AND WAREHOUSING USING SQL & STREAMLIT
+(https://github.com/beingnivesh8/1project)
+
+* PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY
+(https://github.com/beingnivesh8/2project)
 
