@@ -15,3 +15,6 @@ You can reach me through: sakthinivesh99@gmail.com
 * PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY
 (https://github.com/beingnivesh8/2project)
 
+* AIRBNB-ANALYSIS:
+(https://github.com/beingnivesh8/3project)
+
