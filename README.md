@@ -22,3 +22,6 @@ You can reach me through: sakthinivesh99@gmail.com
 * INDUSTRIAL COPPER MODELING:
 (https://github.com/beingnivesh8/4project)
 
+* SINGAPORE RESALE FLAT PRICES PREDICTING:
+(https://github.com/beingnivesh8/4project)
+
