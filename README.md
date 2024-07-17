@@ -9,6 +9,7 @@ Always Having lots of interest in DataScience and Learning it...
 You can reach me through: sakthinivesh99@gmail.com
 
 # My Recent Projects:
+
 * YOUTUBE DATE HARVESTING AND WAREHOUSING USING SQL & STREAMLIT
  (https://github.com/beingnivesh8/1project)
 
@@ -17,4 +18,7 @@ You can reach me through: sakthinivesh99@gmail.com
 
 * AIRBNB-ANALYSIS:
 (https://github.com/beingnivesh8/3project)
+
+* INDUSTRIAL COPPER MODELING:
+(https://github.com/beingnivesh8/4project)
 
