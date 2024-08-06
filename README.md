@@ -1,5 +1,5 @@
 # Nivesh N P DECE.,BBA(Ongoing)
-⬅️Assistant Warehouse Supervisor
+⬅️Warehouse Supervisor
 ⬅️Junior Logistics Engineer
 ⬅️Team Member - CSD
 ⬅️Production Line Incharge
