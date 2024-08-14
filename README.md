@@ -11,7 +11,7 @@
 I'm Nivesh, I have completed Diploma in Electronics and Communication Engineering (First class with distinction) from State Board of Technical Education, Tamil Nadu.
 Also now I'm Pursuing Bachelor of Business Administration from Manonmaniam Sundaranar University. 
 Professionally, I have one year of National apprenticeship experience in Operations (Production, Quality, Warehouse, Dispatch) and 
-also I have one year of experience in CSD & Logistics (Billing, Export Documentations, Dispatches, Bank Documentations, Customer Support) in Saint-Gobain Glass India Pvt.Ltd, Chennai. After i have the experience of warehousing in CJ Century Logistics Malaysia Sdn Bhd. Klang, Malaysia. After all this i decided to change my career, from the begining i have lot of interest in dealing with datas so eventually i findout my passion in data science. Now i'm on my path...
+also I have one year of experience in CSD & Logistics (Billing, Export Documentations, Dispatches, Bank Documentations, Customer Support) in Saint-Gobain Glass India Pvt.Ltd, Chennai. After i have the experience of warehousing in CJ Century Logistics Malaysia Sdn Bhd. Klang, Malaysia. After all this i decided to change my career, from the begining i have lot of interest in dealing with datas, so eventually i findout my passion in data science. After lots of analysing, i findout Guvi. who helps me learning about Data science. Now i'm on my path...
 
 
 You can reach me through: sakthinivesh99@gmail.com
