@@ -18,22 +18,22 @@ You can reach me through: sakthinivesh99@gmail.com
 
 **# My Recent Projects**:
 
-*** YOUTUBE DATE HARVESTING AND WAREHOUSING USING SQL & STREAMLIT**:
+***YOUTUBE DATE HARVESTING AND WAREHOUSING USING SQL & STREAMLIT**:
  (https://github.com/beingnivesh8/1project)
 
-*** PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY**:
+***PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY**:
 (https://github.com/beingnivesh8/2project)
 
-*** AIRBNB ANALYSIS**:
+***AIRBNB ANALYSIS**:
 (https://github.com/beingnivesh8/3project)
 
-*** INDUSTRIAL COPPER MODELING**:
+***INDUSTRIAL COPPER MODELING**:
 (https://github.com/beingnivesh8/4project)
 
-*** SINGAPORE RESALE FLAT PRICES PREDICTING**:
+***SINGAPORE RESALE FLAT PRICES PREDICTING**:
 (https://github.com/beingnivesh8/5project)
 
-*** GUVI GPT Model using Hugging Face**:
+***GUVI GPT Model USING HUGGING FACE**:
 (https://github.com/beingnivesh8/6project)
 
 
