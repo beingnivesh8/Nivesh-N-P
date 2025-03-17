@@ -1,4 +1,5 @@
 # Nivesh N P DECE.,BBA(Ongoing)
+
 Production Line Incharge➡️
 Team Member - CSD➡️
 Junior Logistics Executive➡️
@@ -8,7 +9,8 @@ Data Science enthusiast✔️
 
 
 
-  Hi, Hope you are doing well, Thankyou for giving your precious time for me.
+
+  Hi, Hope you are doing well, Thank you for giving your precious time for me.
 
   
 I'm Nivesh, I have completed Diploma in Electronics and Communication Engineering (First class with distinction) from State Board of Technical Education, Tamil Nadu.
