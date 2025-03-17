@@ -1,8 +1,11 @@
 # Nivesh N P DECE.,BBA(Ongoing)
-⬅️Warehouse Supervisor
-⬅️Junior Logistics Executive
-⬅️Team Member - CSD
-⬅️Production Line Incharge
+Production Line Incharge➡️
+Team Member - CSD➡️
+Junior Logistics Executive➡️
+Warehouse Supervisor➡️
+Data Science enthusiast✔️
+
+
 
 
   Hi, Hope you are doing well, Thankyou for giving your precious time for me.
